@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcyfree" alt="tcyfree" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bohrtang" target="blank"><img src="https://img.shields.io/twitter/follow/bohrtang?logo=twitter&style=for-the-badge" alt="bohrtang" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
