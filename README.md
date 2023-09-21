@@ -1,5 +1,5 @@
 <h3 align="left">Blog:</h3>
-<a href="https://segmentfault.com/u/tangcy"><img src="https://raw.githubusercontent.com/tcyfree/tcyfree/main/1.png" width="240" height="72" alt="Bohr 的 SegmentFault 技术档案" title="Bohr 的 SegmentFault 技术档案" /></a>
+<a href="https://segmentfault.com/u/tangcy"><img src="https://raw.githubusercontent.com/tcyfree/tcyfree/main/2.png" width="240" height="72" alt="Bohr 的 SegmentFault 技术档案" title="Bohr 的 SegmentFault 技术档案" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
