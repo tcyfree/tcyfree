@@ -1,4 +1,4 @@
-<h3 align="left">Blog:</h3>
+<h3 align="left">Technology Blog:</h3>
 <a href="https://segmentfault.com/u/tangcy"><img src="https://raw.githubusercontent.com/tcyfree/tcyfree/main/2.png" width="240" height="72" alt="Bohr 的 SegmentFault 技术档案" title="Bohr 的 SegmentFault 技术档案" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
